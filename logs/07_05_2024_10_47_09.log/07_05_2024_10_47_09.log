@@ -1,0 +1,14 @@
+[2024-07-05 10:47:10,405] 28 root - INFO - Started data ingestion component
+[2024-07-05 10:47:10,408] 32 root - INFO - read dataset as dataframe
+[2024-07-05 10:47:10,412] 40 root - INFO - initiate train_test_split
+[2024-07-05 10:47:10,419] 50 root - INFO - ingestion of the data is completed
+[2024-07-05 10:47:10,423] 74 root - INFO - read train and test data completed
+[2024-07-05 10:47:10,423] 76 root - INFO - obtaining data transformation object
+[2024-07-05 10:47:10,423] 45 root - INFO - numerical column completed
+[2024-07-05 10:47:10,423] 53 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2024-07-05 10:47:10,428] 54 root - INFO - Numerical columns: ['writing_score', 'reading_score']
+[2024-07-05 10:47:10,429] 91 root - INFO - Applying preprocessor object on train and test dataframe
+[2024-07-05 10:47:10,445] 105 root - INFO - saved preprocessing object
+[2024-07-05 10:47:10,446] 35 root - INFO - Splitting training and test input data
+[2024-07-05 10:48:18,472] 102 root - INFO - Best found model: LinearRegression() with score: 0.8795158595242263
+[2024-07-05 10:48:18,472] 111 root - INFO - Best found model on both training and testing dataset
