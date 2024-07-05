@@ -1,0 +1,9 @@
+[2024-07-05 09:42:03,035] 28 root - INFO - Started data ingestion component
+[2024-07-05 09:42:03,040] 32 root - INFO - read dataset as dataframe
+[2024-07-05 09:42:03,044] 40 root - INFO - initiate train_test_split
+[2024-07-05 09:42:03,049] 50 root - INFO - ingestion of the data is completed
+[2024-07-05 09:42:03,053] 75 root - INFO - read train and test data completed
+[2024-07-05 09:42:03,053] 77 root - INFO - obtaining data transformation object
+[2024-07-05 09:42:03,053] 45 root - INFO - numerical column completed
+[2024-07-05 09:42:03,053] 53 root - INFO - categorcial column ecoding completed
+[2024-07-05 09:42:03,054] 92 root - INFO - Applying preprocessor object on train and test dataframe
