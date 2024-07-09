@@ -1,0 +1,4 @@
+[2024-07-08 17:32:43,918] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-07-08 17:32:43,927] 97 werkzeug - INFO -  * Debugger PIN: 886-740-906
+[2024-07-08 17:34:10,188] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2024 17:34:10] "GET / HTTP/1.1" 200 -
+[2024-07-08 17:35:20,812] 97 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2024 17:35:20] "GET / HTTP/1.1" 200 -

@@ -1,0 +1,3 @@
+[2024-07-08 17:31:31,358] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-07-08 17:31:31,365] 97 werkzeug - INFO -  * Debugger PIN: 886-740-906
+[2024-07-08 17:32:42,626] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Will\\Desktop\\CA\\AI\\MLOPs\\student_score\\app.py', reloading
